@@ -7,7 +7,7 @@ about:
   head: 3419892
   archived: false
   latestVersion: 1.5.3
-  collectedAt: 2026-09-04T19:25:36Z
+  collectedAt: 2026-09-04T21:07:35Z
 timeline:
   created: 2025-01-05
   lastCommit: 2026-09-04
@@ -82,5 +82,58 @@ total:
   openIssue: 5
   commit: 717
 ---
+path: /home/runner/.x-repo/github.com/sparklost/endcord
+collectedAt: 2026-09-04T21:07:37Z
+loc:
+  Python:
+    code: 35103
+    comments: 1545
+    blanks: 4055
+    files: 49
+  Json:
+    code: 3946
+    comments: 0
+    blanks: 0
+    files: 1
+  Cython:
+    code: 518
+    comments: 128
+    blanks: 127
+    files: 5
+  Sh:
+    code: 326
+    comments: 48
+    blanks: 57
+    files: 3
+  Ini:
+    code: 184
+    comments: 0
+    blanks: 0
+    files: 4
+  Protobuf:
+    code: 59
+    comments: 32
+    blanks: 10
+    files: 2
+  Toml:
+    code: 45
+    comments: 0
+    blanks: 2
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1734
+    blanks: 185
+    files: 5
+  Text:
+    code: 0
+    comments: 34
+    blanks: 4
+    files: 1
+total:
+  code: 40181
+  comments: 3521
+  blanks: 4440
+  files: 71
 ---
 
