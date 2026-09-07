@@ -1,0 +1,171 @@
+about:
+  description: "The most feature rich Discord TUI client."
+  license: NOASSERTION
+  homepage: https://github.com/sparklost/endcord
+  head: 33a7f78
+  archived: false
+  latestVersion: "1.5.3"
+  collectedAt: 2026-09-07T04:36:22Z
+timeline:
+  created: 2025-01-05
+  lastCommit: 2026-09-06
+  lastRelease: 2026-07-28
+popularity:
+  star: 978
+  watcher: 7
+  fork: 22
+  release: 9
+  contributor: 1
+  pullRequest: 24
+  issue: 121
+language:
+  Python: 1688957
+  Cython: 23844
+  Shell: 11163
+totalBytes: 1723964
+recent:
+  last30d:
+    since: 2026-08-08
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 1
+    openIssue: 4
+    commit: 32
+  last60d:
+    since: 2026-07-09
+    release: 3
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 11
+    openIssue: 5
+    commit: 68
+  last90d:
+    since: 2026-06-09
+    release: 4
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 14
+    openIssue: 5
+    commit: 120
+  last180d:
+    since: 2026-03-11
+    release: 7
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 45
+    openIssue: 5
+    commit: 221
+  last360d:
+    since: 2025-09-12
+    release: 9
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 89
+    openIssue: 5
+    commit: 433
+  last720d:
+    since: 2024-09-17
+    release: 9
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 116
+    openIssue: 5
+    commit: 720
+total:
+  release: 9
+  mergedPR: 0
+  openPR: 0
+  closedIssue: 116
+  openIssue: 5
+  commit: 720
+---
+path: /home/runner/.x-repo/github.com/sparklost/endcord
+collectedAt: 2026-09-07T04:36:26Z
+loc:
+  Python:
+    code: 35232
+    comments: 1550
+    blanks: 4077
+    files: 49
+  Json:
+    code: 3946
+    comments: 0
+    blanks: 0
+    files: 1
+  Cython:
+    code: 518
+    comments: 128
+    blanks: 127
+    files: 5
+  Sh:
+    code: 326
+    comments: 48
+    blanks: 57
+    files: 3
+  Ini:
+    code: 184
+    comments: 0
+    blanks: 0
+    files: 4
+  Protobuf:
+    code: 59
+    comments: 32
+    blanks: 10
+    files: 2
+  Toml:
+    code: 45
+    comments: 0
+    blanks: 2
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1736
+    blanks: 185
+    files: 5
+  Text:
+    code: 0
+    comments: 37
+    blanks: 4
+    files: 1
+total:
+  code: 40310
+  comments: 3531
+  blanks: 4462
+  files: 71
+---
+
+---
+eget:
+  collectedAt: 2026-09-07T04:36:27+00:00
+  platform:
+    darwin/arm64:
+      name:  endcord-lite-1.5.3-macos-arm64.zip
+      url:   https://github.com/sparklost/endcord/releases/download/1.5.3/endcord-lite-1.5.3-macos-arm64.zip
+      size:  20245733
+      score: 45
+    darwin/amd64:
+      name:  endcord-lite-1.5.3-macos-x86_64.zip
+      url:   https://github.com/sparklost/endcord/releases/download/1.5.3/endcord-lite-1.5.3-macos-x86_64.zip
+      size:  21848998
+      score: 45
+    linux/arm64:
+      name:  endcord-lite-1.5.3-linux.tar.gz
+      url:   https://github.com/sparklost/endcord/releases/download/1.5.3/endcord-lite-1.5.3-linux.tar.gz
+      size:  18196451
+      score: 30
+    linux/amd64:
+      name:  endcord-lite-1.5.3-linux.tar.gz
+      url:   https://github.com/sparklost/endcord/releases/download/1.5.3/endcord-lite-1.5.3-linux.tar.gz
+      size:  18196451
+      score: 30
+    win/arm64:
+      name:  endcord-lite-1.5.3-windows.zip
+      url:   https://github.com/sparklost/endcord/releases/download/1.5.3/endcord-lite-1.5.3-windows.zip
+      size:  21931316
+      score: 30
+    win/amd64:
+      name:  endcord-lite-1.5.3-windows.zip
+      url:   https://github.com/sparklost/endcord/releases/download/1.5.3/endcord-lite-1.5.3-windows.zip
+      size:  21931316
+      score: 30
