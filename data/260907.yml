@@ -2,16 +2,16 @@ about:
   description: "The most feature rich Discord TUI client."
   license: NOASSERTION
   homepage: https://github.com/sparklost/endcord
-  head: 33a7f78
+  head: d3a9e9e
   archived: false
   latestVersion: "1.5.3"
-  collectedAt: 2026-09-07T04:36:22Z
+  collectedAt: 2026-09-07T19:46:44Z
 timeline:
   created: 2025-01-05
-  lastCommit: 2026-09-06
+  lastCommit: 2026-09-07
   lastRelease: 2026-07-28
 popularity:
-  star: 978
+  star: 979
   watcher: 7
   fork: 22
   release: 9
@@ -19,10 +19,10 @@ popularity:
   pullRequest: 24
   issue: 121
 language:
-  Python: 1688957
+  Python: 1689702
   Cython: 23844
   Shell: 11163
-totalBytes: 1723964
+totalBytes: 1724709
 recent:
   last30d:
     since: 2026-08-08
@@ -31,7 +31,7 @@ recent:
     openPR: 0
     closedIssue: 1
     openIssue: 4
-    commit: 32
+    commit: 33
   last60d:
     since: 2026-07-09
     release: 3
@@ -39,7 +39,7 @@ recent:
     openPR: 0
     closedIssue: 11
     openIssue: 5
-    commit: 68
+    commit: 69
   last90d:
     since: 2026-06-09
     release: 4
@@ -47,7 +47,7 @@ recent:
     openPR: 0
     closedIssue: 14
     openIssue: 5
-    commit: 120
+    commit: 121
   last180d:
     since: 2026-03-11
     release: 7
@@ -55,7 +55,7 @@ recent:
     openPR: 0
     closedIssue: 45
     openIssue: 5
-    commit: 221
+    commit: 222
   last360d:
     since: 2025-09-12
     release: 9
@@ -63,7 +63,7 @@ recent:
     openPR: 0
     closedIssue: 89
     openIssue: 5
-    commit: 433
+    commit: 434
   last720d:
     since: 2024-09-17
     release: 9
@@ -71,20 +71,20 @@ recent:
     openPR: 0
     closedIssue: 116
     openIssue: 5
-    commit: 720
+    commit: 721
 total:
   release: 9
   mergedPR: 0
   openPR: 0
   closedIssue: 116
   openIssue: 5
-  commit: 720
+  commit: 721
 ---
 path: /home/runner/.x-repo/github.com/sparklost/endcord
-collectedAt: 2026-09-07T04:36:26Z
+collectedAt: 2026-09-07T19:46:47Z
 loc:
   Python:
-    code: 35232
+    code: 35247
     comments: 1550
     blanks: 4077
     files: 49
@@ -129,7 +129,7 @@ loc:
     blanks: 4
     files: 1
 total:
-  code: 40310
+  code: 40325
   comments: 3531
   blanks: 4462
   files: 71
@@ -137,7 +137,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:36:27+00:00
+  collectedAt: 2026-09-07T19:46:47+00:00
   platform:
     darwin/arm64:
       name:  endcord-lite-1.5.3-macos-arm64.zip
