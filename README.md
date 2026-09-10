@@ -23,11 +23,23 @@ x install endcord
 - **Latest**: `1.5.3` (2026-07-28)
 - **Last commit**: 2026-09-09
 - **Assets in release**: 8
-- **Published**: 2026-07-28T16:40:52Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [endcord-1.5.3-linux.tar.gz](https://github.com/sparklost/endcord/releases/download/1.5.3/endcord-1.5.3-linux.tar.gz) | 50.3 MiB | `native/unknown` |
+| [endcord-1.5.3-macos-arm64.zip](https://github.com/sparklost/endcord/releases/download/1.5.3/endcord-1.5.3-macos-arm64.zip) | 43.2 MiB | `native/darwin/arm64` |
+| [endcord-1.5.3-macos-x86_64.zip](https://github.com/sparklost/endcord/releases/download/1.5.3/endcord-1.5.3-macos-x86_64.zip) | 49.6 MiB | `native/darwin/x64` |
+| [endcord-1.5.3-windows.zip](https://github.com/sparklost/endcord/releases/download/1.5.3/endcord-1.5.3-windows.zip) | 45.5 MiB | `native/win/x64` |
+| [endcord-lite-1.5.3-linux.tar.gz](https://github.com/sparklost/endcord/releases/download/1.5.3/endcord-lite-1.5.3-linux.tar.gz) | 17.4 MiB | `native/unknown` |
+| [endcord-lite-1.5.3-macos-arm64.zip](https://github.com/sparklost/endcord/releases/download/1.5.3/endcord-lite-1.5.3-macos-arm64.zip) | 19.3 MiB | `native/darwin/arm64` |
+| [endcord-lite-1.5.3-macos-x86_64.zip](https://github.com/sparklost/endcord/releases/download/1.5.3/endcord-lite-1.5.3-macos-x86_64.zip) | 20.8 MiB | `native/darwin/x64` |
+| [endcord-lite-1.5.3-windows.zip](https://github.com/sparklost/endcord/releases/download/1.5.3/endcord-lite-1.5.3-windows.zip) | 20.9 MiB | `native/win/x64` |
 
 ## Popularity
 
-- **Stars**: 980 · **Forks**: 22 · **Open issues**: 122 · **Contributors**: 1
+- **Stars**: 981 · **Forks**: 22 · **Open issues**: 122 · **Contributors**: 1
 
 ## Totals (cumulative)
 
@@ -58,8 +70,8 @@ Total: **40,358** lines of code across **62** files in the top 5 languages.
 Install metadata for endcord lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `endcord` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/endcord.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/endcord.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:39:22Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:33:29Z._

@@ -4,7 +4,7 @@
 
 The most feature rich Discord TUI client.
 
-![endcord](https://repo.x-cmd.io/endcord.svg)
+![endcord](https://repo.x-cmd.io/endcord.svg?lang=zh)
 
 ## 安装
 
@@ -23,11 +23,23 @@ x install endcord
 - **最新版本**: `1.5.3` (2026-07-28)
 - **最近提交**: 2026-09-09
 - **Release 含资产**: 8 个
-- **发布时间**: 2026-07-28T16:40:52Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [endcord-1.5.3-linux.tar.gz](https://github.com/sparklost/endcord/releases/download/1.5.3/endcord-1.5.3-linux.tar.gz) | 50.3 MiB | `native/unknown` |
+| [endcord-1.5.3-macos-arm64.zip](https://github.com/sparklost/endcord/releases/download/1.5.3/endcord-1.5.3-macos-arm64.zip) | 43.2 MiB | `native/darwin/arm64` |
+| [endcord-1.5.3-macos-x86_64.zip](https://github.com/sparklost/endcord/releases/download/1.5.3/endcord-1.5.3-macos-x86_64.zip) | 49.6 MiB | `native/darwin/x64` |
+| [endcord-1.5.3-windows.zip](https://github.com/sparklost/endcord/releases/download/1.5.3/endcord-1.5.3-windows.zip) | 45.5 MiB | `native/win/x64` |
+| [endcord-lite-1.5.3-linux.tar.gz](https://github.com/sparklost/endcord/releases/download/1.5.3/endcord-lite-1.5.3-linux.tar.gz) | 17.4 MiB | `native/unknown` |
+| [endcord-lite-1.5.3-macos-arm64.zip](https://github.com/sparklost/endcord/releases/download/1.5.3/endcord-lite-1.5.3-macos-arm64.zip) | 19.3 MiB | `native/darwin/arm64` |
+| [endcord-lite-1.5.3-macos-x86_64.zip](https://github.com/sparklost/endcord/releases/download/1.5.3/endcord-lite-1.5.3-macos-x86_64.zip) | 20.8 MiB | `native/darwin/x64` |
+| [endcord-lite-1.5.3-windows.zip](https://github.com/sparklost/endcord/releases/download/1.5.3/endcord-lite-1.5.3-windows.zip) | 20.9 MiB | `native/win/x64` |
 
 ## 流行度
 
-- **Star**: 980 · **Fork**: 22 · **开放 issue**: 122 · **贡献者**: 1
+- **Star**: 981 · **Fork**: 22 · **开放 issue**: 122 · **贡献者**: 1
 
 ## 累计统计
 
@@ -62,4 +74,4 @@ endcord 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:39:22Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:33:29Z._
