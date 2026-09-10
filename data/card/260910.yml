@@ -7,7 +7,7 @@ about:
   latestVersion: "1.5.3"
   latestRelease: "1.5.3"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:39:16Z
+  collectedAt: 2026-09-10T16:33:22Z
 timeline:
   created: 2025-01-05
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-07-28
   lastPrerelease: 
 popularity:
-  star: 980
+  star: 981
   watcher: 7
   fork: 22
   release: 9
@@ -85,7 +85,7 @@ total:
   commit: 726
 ---
 path: /home/runner/.x-repo/github.com/sparklost/endcord
-collectedAt: 2026-09-10T04:39:18Z
+collectedAt: 2026-09-10T16:33:24Z
 loc:
   Python:
     code: 35280
