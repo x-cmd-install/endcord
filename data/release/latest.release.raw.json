@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 52738312,
       "digest": "sha256:dc6d2b202e464a52760ed7a0a5463fd78b6b87ba939833abb4255d9416027fa4",
-      "download_count": 1991,
+      "download_count": 1996,
       "created_at": "2026-07-28T16:36:20Z",
       "updated_at": "2026-07-28T16:36:23Z",
       "browser_download_url": "https://github.com/sparklost/endcord/releases/download/1.5.3/endcord-1.5.3-linux.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 45331866,
       "digest": "sha256:03b90108e81aed9cab210375ce6ef6687a19c02e23d617b1569c26b0916aae02",
-      "download_count": 111,
+      "download_count": 112,
       "created_at": "2026-07-28T16:36:20Z",
       "updated_at": "2026-07-28T16:36:23Z",
       "browser_download_url": "https://github.com/sparklost/endcord/releases/download/1.5.3/endcord-1.5.3-macos-arm64.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 52026652,
       "digest": "sha256:906a261b5f9a5b21094f24a8bd46ca4640c454c516537e3c128191a231ad5c0f",
-      "download_count": 21,
+      "download_count": 22,
       "created_at": "2026-07-28T16:36:20Z",
       "updated_at": "2026-07-28T16:36:24Z",
       "browser_download_url": "https://github.com/sparklost/endcord/releases/download/1.5.3/endcord-1.5.3-macos-x86_64.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 47754140,
       "digest": "sha256:5a966e0b9de35d5de512a5c5a502835b5abcee1d02557edecba1ae4286463656",
-      "download_count": 958,
+      "download_count": 963,
       "created_at": "2026-07-28T16:36:20Z",
       "updated_at": "2026-07-28T16:36:23Z",
       "browser_download_url": "https://github.com/sparklost/endcord/releases/download/1.5.3/endcord-1.5.3-windows.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 18196451,
       "digest": "sha256:17b4c65d3e7e59f169217942450102386a27b66544b390fbbbde46b84e9e7056",
-      "download_count": 89,
+      "download_count": 90,
       "created_at": "2026-07-28T16:36:20Z",
       "updated_at": "2026-07-28T16:36:22Z",
       "browser_download_url": "https://github.com/sparklost/endcord/releases/download/1.5.3/endcord-lite-1.5.3-linux.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 20245733,
       "digest": "sha256:c70a8ba95d383d40c941e28a830e409b82e1b18ea1a250ba2cc0ab11164f5584",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-07-28T16:36:20Z",
       "updated_at": "2026-07-28T16:36:22Z",
       "browser_download_url": "https://github.com/sparklost/endcord/releases/download/1.5.3/endcord-lite-1.5.3-macos-arm64.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 21848998,
       "digest": "sha256:13107bac6bf12a9ebef9b603f7a04ec340fe8b44623b71cd3680f4cf2f66ef1c",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-07-28T16:36:20Z",
       "updated_at": "2026-07-28T16:36:22Z",
       "browser_download_url": "https://github.com/sparklost/endcord/releases/download/1.5.3/endcord-lite-1.5.3-macos-x86_64.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 21931316,
       "digest": "sha256:972f8d2cc243aa4e3205ea8ac277563088c42a594c6837683ba03451f2c80de9",
-      "download_count": 188,
+      "download_count": 189,
       "created_at": "2026-07-28T16:36:20Z",
       "updated_at": "2026-07-28T16:36:22Z",
       "browser_download_url": "https://github.com/sparklost/endcord/releases/download/1.5.3/endcord-lite-1.5.3-windows.zip"
