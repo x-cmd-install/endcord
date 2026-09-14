@@ -38,22 +38,22 @@ Total: **40,358** lines of code across **62** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 985 · **Forks**: 22 · **Open issues**: 122 · **Contributors**: 1
+- **Stars**: 988 · **Forks**: 22 · **Open issues**: 123 · **Contributors**: 1
 
 ## Totals (cumulative)
 
-- **Releases**: 9 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 118 · **Open issues**: 4 · **Commits**: 728
+- **Releases**: 9 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 119 · **Open issues**: 4 · **Commits**: 728
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 0 | 3 | 3 | 36 |
-| last60d | 2026-07-15 | 1 | 0 | 0 | 10 | 4 | 60 |
-| 90d | 2026-06-15 | 4 | 0 | 0 | 16 | 4 | 128 |
-| last180d | 2026-03-17 | 7 | 0 | 0 | 47 | 4 | 214 |
-| 360d | 2025-09-18 | 9 | 0 | 0 | 90 | 4 | 433 |
-| last720d | 2024-09-23 | 9 | 0 | 0 | 118 | 4 | 728 |
+| 30d | 2026-08-15 | 0 | 0 | 0 | 4 | 3 | 36 |
+| last60d | 2026-07-16 | 1 | 0 | 0 | 10 | 4 | 60 |
+| 90d | 2026-06-16 | 4 | 0 | 0 | 17 | 4 | 128 |
+| last180d | 2026-03-18 | 7 | 0 | 0 | 47 | 4 | 214 |
+| 360d | 2025-09-19 | 9 | 0 | 0 | 90 | 4 | 433 |
+| last720d | 2024-09-24 | 9 | 0 | 0 | 119 | 4 | 728 |
 
 ## Release assets
 
@@ -68,10 +68,6 @@ Total: **40,358** lines of code across **62** files in the top 5 languages.
 | [endcord-lite-1.5.3-macos-x86_64.zip](https://github.com/sparklost/endcord/releases/download/1.5.3/endcord-lite-1.5.3-macos-x86_64.zip) | 20.8 MiB | `native/darwin/x64` |
 | [endcord-lite-1.5.3-windows.zip](https://github.com/sparklost/endcord/releases/download/1.5.3/endcord-lite-1.5.3-windows.zip) | 20.9 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **16** distros on [repology.org](https://repology.org/project/endcord). **3** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
-
 ## Improve this data
 
 Install metadata for endcord lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `endcord` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -81,4 +77,4 @@ Install metadata for endcord lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:56:18Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:08:51Z._
