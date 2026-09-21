@@ -14,14 +14,14 @@ x install endcord
 
 ## Code insight
 
-Total: **40,572** lines of code across **62** files in the top 5 languages.
+Total: **41,016** lines of code across **62** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 35,478 | 1,552 | 4,110 | 49 |
+| Python | 35,525 | 1,552 | 4,117 | 49 |
 | Json | 3,946 | 0 | 0 | 1 |
+| Sh | 723 | 55 | 99 | 3 |
 | Cython | 518 | 128 | 127 | 5 |
-| Sh | 326 | 48 | 57 | 3 |
 | Ini | 184 | 0 | 0 | 4 |
 
 ## Source
@@ -32,41 +32,43 @@ Total: **40,572** lines of code across **62** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `1.5.3` (2026-07-28)
-- **Last commit**: 2026-09-19
-- **Assets in release**: 8
+- **Latest**: `1.5.4` (2026-09-21)
+- **Last commit**: 2026-09-20
+- **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 992 · **Forks**: 22 · **Open issues**: 125 · **Contributors**: 1
+- **Stars**: 993 · **Forks**: 22 · **Open issues**: 125 · **Contributors**: 1
 
 ## Totals (cumulative)
 
-- **Releases**: 9 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 121 · **Open issues**: 4 · **Commits**: 735
+- **Releases**: 10 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 124 · **Open issues**: 1 · **Commits**: 741
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 0 | 0 | 0 | 5 | 3 | 43 |
-| last60d | 2026-07-22 | 1 | 0 | 0 | 10 | 4 | 67 |
-| 90d | 2026-06-22 | 4 | 0 | 0 | 19 | 4 | 135 |
-| last180d | 2026-03-24 | 5 | 0 | 0 | 47 | 4 | 221 |
-| 360d | 2025-09-25 | 9 | 0 | 0 | 91 | 4 | 440 |
-| last720d | 2024-09-30 | 9 | 0 | 0 | 121 | 4 | 735 |
+| 30d | 2026-08-22 | 1 | 0 | 0 | 7 | 1 | 37 |
+| last60d | 2026-07-23 | 2 | 0 | 0 | 13 | 1 | 64 |
+| 90d | 2026-06-23 | 5 | 0 | 0 | 22 | 1 | 129 |
+| last180d | 2026-03-25 | 6 | 0 | 0 | 50 | 1 | 223 |
+| 360d | 2025-09-26 | 10 | 0 | 0 | 94 | 1 | 441 |
+| last720d | 2024-10-01 | 10 | 0 | 0 | 124 | 1 | 741 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [endcord-1.5.3-linux.tar.gz](https://github.com/sparklost/endcord/releases/download/1.5.3/endcord-1.5.3-linux.tar.gz) | 50.3 MiB | `native/unknown` |
-| [endcord-1.5.3-macos-arm64.zip](https://github.com/sparklost/endcord/releases/download/1.5.3/endcord-1.5.3-macos-arm64.zip) | 43.2 MiB | `native/darwin/arm64` |
-| [endcord-1.5.3-macos-x86_64.zip](https://github.com/sparklost/endcord/releases/download/1.5.3/endcord-1.5.3-macos-x86_64.zip) | 49.6 MiB | `native/darwin/x64` |
-| [endcord-1.5.3-windows.zip](https://github.com/sparklost/endcord/releases/download/1.5.3/endcord-1.5.3-windows.zip) | 45.5 MiB | `native/win/x64` |
-| [endcord-lite-1.5.3-linux.tar.gz](https://github.com/sparklost/endcord/releases/download/1.5.3/endcord-lite-1.5.3-linux.tar.gz) | 17.4 MiB | `native/unknown` |
-| [endcord-lite-1.5.3-macos-arm64.zip](https://github.com/sparklost/endcord/releases/download/1.5.3/endcord-lite-1.5.3-macos-arm64.zip) | 19.3 MiB | `native/darwin/arm64` |
-| [endcord-lite-1.5.3-macos-x86_64.zip](https://github.com/sparklost/endcord/releases/download/1.5.3/endcord-lite-1.5.3-macos-x86_64.zip) | 20.8 MiB | `native/darwin/x64` |
-| [endcord-lite-1.5.3-windows.zip](https://github.com/sparklost/endcord/releases/download/1.5.3/endcord-lite-1.5.3-windows.zip) | 20.9 MiB | `native/win/x64` |
+| [endcord-1.5.4-linux.tar.gz](https://github.com/sparklost/endcord/releases/download/1.5.4/endcord-1.5.4-linux.tar.gz) | 50.8 MiB | `native/unknown` |
+| [endcord-1.5.4-macos-arm64.zip](https://github.com/sparklost/endcord/releases/download/1.5.4/endcord-1.5.4-macos-arm64.zip) | 43.5 MiB | `native/darwin/arm64` |
+| [endcord-1.5.4-macos-x86_64.zip](https://github.com/sparklost/endcord/releases/download/1.5.4/endcord-1.5.4-macos-x86_64.zip) | 49.9 MiB | `native/darwin/x64` |
+| [endcord-1.5.4-windows.zip](https://github.com/sparklost/endcord/releases/download/1.5.4/endcord-1.5.4-windows.zip) | 45.8 MiB | `native/win/x64` |
+| [endcord-gui-1.5.4-linux.tar.gz](https://github.com/sparklost/endcord/releases/download/1.5.4/endcord-gui-1.5.4-linux.tar.gz) | 53.2 MiB | `native/unknown` |
+| [endcord-gui-1.5.4-windows.zip](https://github.com/sparklost/endcord/releases/download/1.5.4/endcord-gui-1.5.4-windows.zip) | 55.5 MiB | `native/win/x64` |
+| [endcord-lite-1.5.4-linux.tar.gz](https://github.com/sparklost/endcord/releases/download/1.5.4/endcord-lite-1.5.4-linux.tar.gz) | 17.6 MiB | `native/unknown` |
+| [endcord-lite-1.5.4-macos-arm64.zip](https://github.com/sparklost/endcord/releases/download/1.5.4/endcord-lite-1.5.4-macos-arm64.zip) | 19.6 MiB | `native/darwin/arm64` |
+| [endcord-lite-1.5.4-macos-x86_64.zip](https://github.com/sparklost/endcord/releases/download/1.5.4/endcord-lite-1.5.4-macos-x86_64.zip) | 21.1 MiB | `native/darwin/x64` |
+| [endcord-lite-1.5.4-windows.zip](https://github.com/sparklost/endcord/releases/download/1.5.4/endcord-lite-1.5.4-windows.zip) | 21.2 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -77,4 +79,4 @@ Install metadata for endcord lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T05:02:51Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T05:06:05Z._
