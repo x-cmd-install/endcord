@@ -4,7 +4,7 @@
 
 The most feature rich Discord TUI client.
 
-[![x-cmd/install — endcord Code Quality Monitoring Repo Card](https://repo.x-cmd.io/endcord.svg?lang=zh)](https://x-cmd.com/install/endcord)
+[![x-cmd/install — endcord Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/endcord.svg?lang=zh)](https://x-cmd.com/install/endcord)
 
 ## 安装
 
@@ -14,11 +14,11 @@ x install endcord
 
 ## 代码洞察
 
-合计: **41,034** 行代码（覆盖前 5 种语言、共 **62** 个文件）。
+合计: **41,086** 行代码（覆盖前 5 种语言、共 **62** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 35,525 | 1,552 | 4,117 | 49 |
+| Python | 35,577 | 1,551 | 4,124 | 49 |
 | Json | 3,946 | 0 | 0 | 1 |
 | Sh | 741 | 54 | 99 | 3 |
 | Cython | 518 | 128 | 127 | 5 |
@@ -33,27 +33,27 @@ x install endcord
 ## 发布
 
 - **最新版本**: `1.5.4` (2026-09-21)
-- **最近提交**: 2026-09-21
+- **最近提交**: 2026-09-22
 - **Release 含资产**: 10 个
 
 ## 流行度
 
-- **Star**: 993 · **Fork**: 22 · **开放 issue**: 125 · **贡献者**: 1
+- **Star**: 994 · **Fork**: 23 · **开放 issue**: 126 · **贡献者**: 1
 
 ## 累计统计
 
-- **发布数**: 10 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 124 · **开放 issue**: 1 · **提交数**: 743
+- **发布数**: 10 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 125 · **开放 issue**: 1 · **提交数**: 745
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 0 | 0 | 6 | 1 | 39 |
-| last60d | 2026-07-24 | 2 | 0 | 0 | 13 | 1 | 66 |
-| 90d | 2026-06-24 | 5 | 0 | 0 | 22 | 1 | 131 |
-| last180d | 2026-03-26 | 6 | 0 | 0 | 50 | 1 | 225 |
-| 360d | 2025-09-27 | 10 | 0 | 0 | 94 | 1 | 443 |
-| last720d | 2024-10-02 | 10 | 0 | 0 | 124 | 1 | 743 |
+| 30d | 2026-08-24 | 1 | 0 | 0 | 7 | 1 | 41 |
+| last60d | 2026-07-25 | 2 | 0 | 0 | 14 | 1 | 68 |
+| 90d | 2026-06-25 | 5 | 0 | 0 | 23 | 1 | 133 |
+| last180d | 2026-03-27 | 6 | 0 | 0 | 51 | 1 | 227 |
+| 360d | 2025-09-28 | 10 | 0 | 0 | 95 | 1 | 445 |
+| last720d | 2024-10-03 | 10 | 0 | 0 | 125 | 1 | 745 |
 
 ## Release 资产
 
@@ -79,4 +79,4 @@ endcord 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:58:36Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:52:31Z._

@@ -4,7 +4,7 @@
 
 The most feature rich Discord TUI client.
 
-[![x-cmd/install — endcord Code Quality Monitoring Repo Card](https://repo.x-cmd.io/endcord.svg)](https://x-cmd.com/install/endcord)
+[![x-cmd/install — endcord Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/endcord.svg)](https://x-cmd.com/install/endcord)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install endcord
 
 ## Code insight
 
-Total: **41,034** lines of code across **62** files in the top 5 languages.
+Total: **41,086** lines of code across **62** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 35,525 | 1,552 | 4,117 | 49 |
+| Python | 35,577 | 1,551 | 4,124 | 49 |
 | Json | 3,946 | 0 | 0 | 1 |
 | Sh | 741 | 54 | 99 | 3 |
 | Cython | 518 | 128 | 127 | 5 |
@@ -33,27 +33,27 @@ Total: **41,034** lines of code across **62** files in the top 5 languages.
 ## Release
 
 - **Latest**: `1.5.4` (2026-09-21)
-- **Last commit**: 2026-09-21
+- **Last commit**: 2026-09-22
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 993 · **Forks**: 22 · **Open issues**: 125 · **Contributors**: 1
+- **Stars**: 994 · **Forks**: 23 · **Open issues**: 126 · **Contributors**: 1
 
 ## Totals (cumulative)
 
-- **Releases**: 10 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 124 · **Open issues**: 1 · **Commits**: 743
+- **Releases**: 10 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 125 · **Open issues**: 1 · **Commits**: 745
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 0 | 0 | 6 | 1 | 39 |
-| last60d | 2026-07-24 | 2 | 0 | 0 | 13 | 1 | 66 |
-| 90d | 2026-06-24 | 5 | 0 | 0 | 22 | 1 | 131 |
-| last180d | 2026-03-26 | 6 | 0 | 0 | 50 | 1 | 225 |
-| 360d | 2025-09-27 | 10 | 0 | 0 | 94 | 1 | 443 |
-| last720d | 2024-10-02 | 10 | 0 | 0 | 124 | 1 | 743 |
+| 30d | 2026-08-24 | 1 | 0 | 0 | 7 | 1 | 41 |
+| last60d | 2026-07-25 | 2 | 0 | 0 | 14 | 1 | 68 |
+| 90d | 2026-06-25 | 5 | 0 | 0 | 23 | 1 | 133 |
+| last180d | 2026-03-27 | 6 | 0 | 0 | 51 | 1 | 227 |
+| 360d | 2025-09-28 | 10 | 0 | 0 | 95 | 1 | 445 |
+| last720d | 2024-10-03 | 10 | 0 | 0 | 125 | 1 | 745 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for endcord lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:58:35Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:52:30Z._
