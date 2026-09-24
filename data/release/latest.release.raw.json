@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 53221084,
       "digest": "sha256:5bff4b5095d03a36bae8d078e8ed5128276100e25d332810a12400a50deaac64",
-      "download_count": 96,
+      "download_count": 168,
       "created_at": "2026-09-21T22:49:25Z",
       "updated_at": "2026-09-21T22:49:29Z",
       "browser_download_url": "https://github.com/sparklost/endcord/releases/download/1.5.4/endcord-1.5.4-linux.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 45628874,
       "digest": "sha256:9097507ca7939cbdb35b51103ed4be693512eebea17d3331d28dda827cc1938a",
-      "download_count": 5,
+      "download_count": 11,
       "created_at": "2026-09-21T22:49:25Z",
       "updated_at": "2026-09-21T22:49:29Z",
       "browser_download_url": "https://github.com/sparklost/endcord/releases/download/1.5.4/endcord-1.5.4-macos-arm64.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 48072444,
       "digest": "sha256:63f3410c6b32b588f86e95a81d3929c1385a49122d1977599a1bae3f51ebdd79",
-      "download_count": 34,
+      "download_count": 50,
       "created_at": "2026-09-21T22:49:25Z",
       "updated_at": "2026-09-21T22:49:29Z",
       "browser_download_url": "https://github.com/sparklost/endcord/releases/download/1.5.4/endcord-1.5.4-windows.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 55743701,
       "digest": "sha256:20d6c6fde2ccc0ce64b064a3886d87f762ba77170cefcd7adf17113462ef76c5",
-      "download_count": 8,
+      "download_count": 13,
       "created_at": "2026-09-21T22:49:25Z",
       "updated_at": "2026-09-21T22:49:29Z",
       "browser_download_url": "https://github.com/sparklost/endcord/releases/download/1.5.4/endcord-gui-1.5.4-linux.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 58169343,
       "digest": "sha256:7c1ef34c18262ff87072de38afadc54d0c1daedf391d0c2b872cfce52db4d12f",
-      "download_count": 7,
+      "download_count": 9,
       "created_at": "2026-09-21T22:49:25Z",
       "updated_at": "2026-09-21T22:49:29Z",
       "browser_download_url": "https://github.com/sparklost/endcord/releases/download/1.5.4/endcord-gui-1.5.4-windows.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 18397521,
       "digest": "sha256:959abfa5cacf37dc591e28f6e0c49906ca605cc6e2704506b41feefb7473f995",
-      "download_count": 6,
+      "download_count": 9,
       "created_at": "2026-09-21T22:49:25Z",
       "updated_at": "2026-09-21T22:49:27Z",
       "browser_download_url": "https://github.com/sparklost/endcord/releases/download/1.5.4/endcord-lite-1.5.4-linux.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 22184342,
       "digest": "sha256:200317f3c058b23b9468f49a1abc363d12c3697a50cae75e15095e02add44cef",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-21T22:49:25Z",
       "updated_at": "2026-09-21T22:49:27Z",
       "browser_download_url": "https://github.com/sparklost/endcord/releases/download/1.5.4/endcord-lite-1.5.4-windows.zip"
