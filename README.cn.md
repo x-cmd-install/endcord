@@ -14,11 +14,11 @@ x install endcord
 
 ## 代码洞察
 
-合计: **42,840** 行代码（覆盖前 5 种语言、共 **66** 个文件）。
+合计: **42,850** 行代码（覆盖前 5 种语言、共 **66** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 37,277 | 1,589 | 4,373 | 53 |
+| Python | 37,287 | 1,589 | 4,373 | 53 |
 | Json | 3,946 | 0 | 0 | 1 |
 | Sh | 753 | 54 | 101 | 3 |
 | Cython | 518 | 128 | 127 | 5 |
@@ -33,27 +33,27 @@ x install endcord
 ## 发布
 
 - **最新版本**: `1.5.4` (2026-09-21)
-- **最近提交**: 2026-10-21
+- **最近提交**: 2026-10-22
 - **Release 含资产**: 10 个
 
 ## 流行度
 
-- **Star**: 1,013 · **Fork**: 25 · **开放 issue**: 133 · **贡献者**: 1
+- **Star**: 1,015 · **Fork**: 25 · **开放 issue**: 133 · **贡献者**: 1
 
 ## 累计统计
 
-- **发布数**: 10 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 133 · **开放 issue**: 0 · **提交数**: 771
+- **发布数**: 10 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 133 · **开放 issue**: 0 · **提交数**: 772
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 0 | 8 | 0 | 26 |
-| last60d | 2026-08-23 | 1 | 0 | 0 | 16 | 0 | 70 |
-| 90d | 2026-07-24 | 2 | 0 | 0 | 23 | 0 | 100 |
-| last180d | 2026-04-25 | 5 | 0 | 0 | 47 | 0 | 226 |
-| 360d | 2025-10-27 | 10 | 0 | 0 | 101 | 0 | 460 |
-| last720d | 2024-11-01 | 10 | 0 | 0 | 133 | 0 | 771 |
+| 30d | 2026-09-23 | 0 | 0 | 0 | 8 | 0 | 27 |
+| last60d | 2026-08-24 | 1 | 0 | 0 | 16 | 0 | 71 |
+| 90d | 2026-07-25 | 2 | 0 | 0 | 23 | 0 | 101 |
+| last180d | 2026-04-26 | 5 | 0 | 0 | 45 | 0 | 227 |
+| 360d | 2025-10-28 | 10 | 0 | 0 | 101 | 0 | 461 |
+| last720d | 2024-11-02 | 10 | 0 | 0 | 133 | 0 | 772 |
 
 ## Release 资产
 
@@ -70,6 +70,10 @@ x install endcord
 | [endcord-lite-1.5.4-macos-x86_64.zip](https://github.com/sparklost/endcord/releases/download/1.5.4/endcord-lite-1.5.4-macos-x86_64.zip) | 21.1 MiB | `native/darwin/x64` |
 | [endcord-lite-1.5.4-windows.zip](https://github.com/sparklost/endcord/releases/download/1.5.4/endcord-lite-1.5.4-windows.zip) | 21.2 MiB | `native/win/x64` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/endcord) 上共有 **16** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**4** 个 ⚠️ 使用旧版本。
+
 ## 改进这些数据
 
 endcord 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `endcord` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -79,4 +83,4 @@ endcord 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T04:37:43Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T04:44:03Z._
