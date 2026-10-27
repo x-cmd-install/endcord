@@ -14,13 +14,13 @@ x install endcord
 
 ## Code insight
 
-Total: **42,826** lines of code across **66** files in the top 5 languages.
+Total: **42,859** lines of code across **66** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 37,263 | 1,586 | 4,377 | 53 |
+| Python | 37,297 | 1,585 | 4,379 | 53 |
 | Json | 3,946 | 0 | 0 | 1 |
-| Sh | 753 | 54 | 101 | 3 |
+| Sh | 752 | 54 | 101 | 3 |
 | Cython | 518 | 128 | 127 | 5 |
 | Ini | 184 | 0 | 0 | 4 |
 
@@ -42,18 +42,18 @@ Total: **42,826** lines of code across **66** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 10 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 133 · **Open issues**: 1 · **Commits**: 775
+- **Releases**: 10 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 133 · **Open issues**: 1 · **Commits**: 776
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 0 | 0 | 0 | 8 | 1 | 28 |
-| last60d | 2026-08-27 | 1 | 0 | 0 | 15 | 1 | 62 |
-| 90d | 2026-07-28 | 2 | 0 | 0 | 22 | 1 | 95 |
-| last180d | 2026-04-29 | 5 | 0 | 0 | 43 | 1 | 226 |
-| 360d | 2025-10-31 | 10 | 0 | 0 | 101 | 1 | 460 |
-| last720d | 2024-11-05 | 10 | 0 | 0 | 133 | 1 | 775 |
+| 30d | 2026-09-27 | 0 | 0 | 0 | 7 | 1 | 29 |
+| last60d | 2026-08-28 | 1 | 0 | 0 | 15 | 1 | 63 |
+| 90d | 2026-07-29 | 1 | 0 | 0 | 20 | 1 | 96 |
+| last180d | 2026-04-30 | 5 | 0 | 0 | 43 | 1 | 227 |
+| 360d | 2025-11-01 | 10 | 0 | 0 | 101 | 1 | 461 |
+| last720d | 2024-11-06 | 10 | 0 | 0 | 133 | 1 | 776 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for endcord lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T04:46:25Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:01:11Z._
