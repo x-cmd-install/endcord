@@ -14,11 +14,11 @@ x install endcord
 
 ## Code insight
 
-Total: **42,859** lines of code across **66** files in the top 5 languages.
+Total: **42,877** lines of code across **66** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 37,297 | 1,585 | 4,379 | 53 |
+| Python | 37,314 | 1,587 | 4,381 | 53 |
 | Json | 3,946 | 0 | 0 | 1 |
 | Sh | 752 | 54 | 101 | 3 |
 | Cython | 518 | 128 | 127 | 5 |
@@ -33,27 +33,27 @@ Total: **42,859** lines of code across **66** files in the top 5 languages.
 ## Release
 
 - **Latest**: `1.5.4` (2026-09-21)
-- **Last commit**: 2026-10-26
+- **Last commit**: 2026-10-28
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 1,016 · **Forks**: 25 · **Open issues**: 134 · **Contributors**: 1
+- **Stars**: 1,017 · **Forks**: 25 · **Open issues**: 134 · **Contributors**: 1
 
 ## Totals (cumulative)
 
-- **Releases**: 10 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 133 · **Open issues**: 1 · **Commits**: 776
+- **Releases**: 10 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 133 · **Open issues**: 1 · **Commits**: 778
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 0 | 0 | 0 | 7 | 1 | 29 |
-| last60d | 2026-08-28 | 1 | 0 | 0 | 15 | 1 | 63 |
-| 90d | 2026-07-29 | 1 | 0 | 0 | 20 | 1 | 96 |
-| last180d | 2026-04-30 | 5 | 0 | 0 | 43 | 1 | 227 |
-| 360d | 2025-11-01 | 10 | 0 | 0 | 101 | 1 | 461 |
-| last720d | 2024-11-06 | 10 | 0 | 0 | 133 | 1 | 776 |
+| 30d | 2026-09-28 | 0 | 0 | 0 | 7 | 1 | 31 |
+| last60d | 2026-08-29 | 1 | 0 | 0 | 15 | 1 | 65 |
+| 90d | 2026-07-30 | 1 | 0 | 0 | 20 | 1 | 98 |
+| last180d | 2026-05-01 | 5 | 0 | 0 | 43 | 1 | 229 |
+| 360d | 2025-11-02 | 10 | 0 | 0 | 101 | 1 | 463 |
+| last720d | 2024-11-07 | 10 | 0 | 0 | 133 | 1 | 778 |
 
 ## Release assets
 
@@ -70,10 +70,6 @@ Total: **42,859** lines of code across **66** files in the top 5 languages.
 | [endcord-lite-1.5.4-macos-x86_64.zip](https://github.com/sparklost/endcord/releases/download/1.5.4/endcord-lite-1.5.4-macos-x86_64.zip) | 21.1 MiB | `native/darwin/x64` |
 | [endcord-lite-1.5.4-windows.zip](https://github.com/sparklost/endcord/releases/download/1.5.4/endcord-lite-1.5.4-windows.zip) | 21.2 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **16** distros on [repology.org](https://repology.org/project/endcord). **1** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
-
 ## Improve this data
 
 Install metadata for endcord lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `endcord` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -83,4 +79,4 @@ Install metadata for endcord lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T05:01:11Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T05:39:07Z._
