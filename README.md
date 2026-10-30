@@ -38,7 +38,7 @@ Total: **42,877** lines of code across **66** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,018 · **Forks**: 25 · **Open issues**: 134 · **Contributors**: 1
+- **Stars**: 1,021 · **Forks**: 25 · **Open issues**: 134 · **Contributors**: 1
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **42,877** lines of code across **66** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 0 | 0 | 0 | 7 | 1 | 31 |
-| last60d | 2026-08-30 | 1 | 0 | 0 | 14 | 1 | 65 |
-| 90d | 2026-07-31 | 1 | 0 | 0 | 19 | 1 | 98 |
-| last180d | 2026-05-02 | 5 | 0 | 0 | 43 | 1 | 229 |
-| 360d | 2025-11-03 | 10 | 0 | 0 | 100 | 1 | 463 |
-| last720d | 2024-11-08 | 10 | 0 | 0 | 133 | 1 | 778 |
+| 30d | 2026-09-30 | 0 | 0 | 0 | 7 | 1 | 31 |
+| last60d | 2026-08-31 | 1 | 0 | 0 | 14 | 1 | 65 |
+| 90d | 2026-08-01 | 1 | 0 | 0 | 19 | 1 | 98 |
+| last180d | 2026-05-03 | 5 | 0 | 0 | 43 | 1 | 229 |
+| 360d | 2025-11-04 | 10 | 0 | 0 | 100 | 1 | 463 |
+| last720d | 2024-11-09 | 10 | 0 | 0 | 133 | 1 | 778 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for endcord lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T05:48:18Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T05:46:52Z._
