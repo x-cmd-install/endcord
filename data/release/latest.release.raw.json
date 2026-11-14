@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 53548999,
       "digest": "sha256:8d50de86736580eec69fb3c139c130594b2a414edf55635ddb25c817391f7b9b",
-      "download_count": 29,
+      "download_count": 117,
       "created_at": "2026-11-12T23:13:23Z",
       "updated_at": "2026-11-12T23:13:27Z",
       "browser_download_url": "https://github.com/sparklost/endcord/releases/download/1.6.0/endcord-1.6.0-linux.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 46018197,
       "digest": "sha256:92252fcb62a1deb9cd8f124458ae27927ad7508c23d16465638b40bb912e2d2d",
-      "download_count": 3,
+      "download_count": 6,
       "created_at": "2026-11-12T23:13:23Z",
       "updated_at": "2026-11-12T23:13:27Z",
       "browser_download_url": "https://github.com/sparklost/endcord/releases/download/1.6.0/endcord-1.6.0-macos-arm64.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 53428072,
       "digest": "sha256:7c6f5ac759148f3bb2df584760917cdda07cb40099e83c56c19202065edfc452",
-      "download_count": 2,
+      "download_count": 5,
       "created_at": "2026-11-12T23:13:23Z",
       "updated_at": "2026-11-12T23:13:27Z",
       "browser_download_url": "https://github.com/sparklost/endcord/releases/download/1.6.0/endcord-1.6.0-macos-x86_64.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 49688121,
       "digest": "sha256:6a2bd04ce96b5515fc7fdd5268c3073533bc329fe6adc154de39e3865c7e1311",
-      "download_count": 4,
+      "download_count": 44,
       "created_at": "2026-11-12T23:13:23Z",
       "updated_at": "2026-11-12T23:13:27Z",
       "browser_download_url": "https://github.com/sparklost/endcord/releases/download/1.6.0/endcord-1.6.0-windows.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 55989451,
       "digest": "sha256:7c4eec48ec392c1e240a574fe51ad16675d25c159a934034b3b3b8478c9b2176",
-      "download_count": 3,
+      "download_count": 12,
       "created_at": "2026-11-12T23:13:23Z",
       "updated_at": "2026-11-12T23:13:27Z",
       "browser_download_url": "https://github.com/sparklost/endcord/releases/download/1.6.0/endcord-gui-1.6.0-linux.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 59723288,
       "digest": "sha256:b561c6fe067e676912a4ccadb97b51f459a8e628edad03997e598f6cb19f1deb",
-      "download_count": 4,
+      "download_count": 14,
       "created_at": "2026-11-12T23:13:23Z",
       "updated_at": "2026-11-12T23:13:27Z",
       "browser_download_url": "https://github.com/sparklost/endcord/releases/download/1.6.0/endcord-gui-1.6.0-windows.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 19385989,
       "digest": "sha256:4e022d0715b99c2455d35865e1b872b564eec168c0e952a798d97d097f525d8d",
-      "download_count": 4,
+      "download_count": 12,
       "created_at": "2026-11-12T23:13:24Z",
       "updated_at": "2026-11-12T23:13:25Z",
       "browser_download_url": "https://github.com/sparklost/endcord/releases/download/1.6.0/endcord-lite-1.6.0-linux.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 20492248,
       "digest": "sha256:093228d790bdeac0f3911e21fe300edda77adaec93d90d96a12b01c229fc2e67",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-12T23:13:24Z",
       "updated_at": "2026-11-12T23:13:25Z",
       "browser_download_url": "https://github.com/sparklost/endcord/releases/download/1.6.0/endcord-lite-1.6.0-macos-arm64.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 22947761,
       "digest": "sha256:fa1b75aefdcbb8afbe3084879aa6175b86fc4000692b58c70ac7718afbfd8af4",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-12T23:13:23Z",
       "updated_at": "2026-11-12T23:13:25Z",
       "browser_download_url": "https://github.com/sparklost/endcord/releases/download/1.6.0/endcord-lite-1.6.0-macos-x86_64.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 22531326,
       "digest": "sha256:7d96ec140bfbe19002f47358e7f2d45a8ac93b69538306cdf99482611685deb6",
-      "download_count": 4,
+      "download_count": 11,
       "created_at": "2026-11-12T23:13:23Z",
       "updated_at": "2026-11-12T23:13:25Z",
       "browser_download_url": "https://github.com/sparklost/endcord/releases/download/1.6.0/endcord-lite-1.6.0-windows.zip"
