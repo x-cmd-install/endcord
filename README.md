@@ -38,22 +38,22 @@ Total: **44,396** lines of code across **68** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,034 · **Forks**: 26 · **Open issues**: 141 · **Contributors**: 1
+- **Stars**: 1,034 · **Forks**: 26 · **Open issues**: 142 · **Contributors**: 1
 
 ## Totals (cumulative)
 
-- **Releases**: 11 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 139 · **Open issues**: 2 · **Commits**: 800
+- **Releases**: 11 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 139 · **Open issues**: 3 · **Commits**: 800
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 1 | 0 | 0 | 6 | 2 | 35 |
-| last60d | 2026-09-15 | 2 | 0 | 0 | 17 | 2 | 70 |
-| 90d | 2026-08-16 | 2 | 0 | 0 | 24 | 2 | 111 |
-| last180d | 2026-05-18 | 6 | 0 | 0 | 46 | 2 | 239 |
-| 360d | 2025-11-19 | 11 | 0 | 0 | 103 | 2 | 471 |
-| last720d | 2024-11-24 | 11 | 0 | 0 | 139 | 2 | 800 |
+| 30d | 2026-10-16 | 1 | 0 | 0 | 6 | 3 | 28 |
+| last60d | 2026-09-16 | 2 | 0 | 0 | 16 | 3 | 56 |
+| 90d | 2026-08-17 | 2 | 0 | 0 | 24 | 3 | 103 |
+| last180d | 2026-05-19 | 6 | 0 | 0 | 46 | 3 | 229 |
+| 360d | 2025-11-20 | 11 | 0 | 0 | 103 | 3 | 465 |
+| last720d | 2024-11-25 | 11 | 0 | 0 | 139 | 3 | 800 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for endcord lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T06:32:23Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T06:27:41Z._
