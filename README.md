@@ -14,14 +14,14 @@ x install endcord
 
 ## Code insight
 
-Total: **46,087** lines of code across **72** files in the top 5 languages.
+Total: **46,259** lines of code across **73** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 40,519 | 1,672 | 4,736 | 59 |
+| Python | 40,697 | 1,677 | 4,771 | 60 |
 | Json | 3,946 | 0 | 0 | 1 |
-| Sh | 753 | 55 | 102 | 3 |
-| Cython | 521 | 128 | 128 | 5 |
+| Sh | 750 | 55 | 102 | 3 |
+| Cython | 518 | 128 | 128 | 5 |
 | Ini | 184 | 0 | 0 | 4 |
 
 ## Source
@@ -33,27 +33,27 @@ Total: **46,087** lines of code across **72** files in the top 5 languages.
 ## Release
 
 - **Latest**: `1.6.0` (2026-11-12)
-- **Last commit**: 2026-11-20
+- **Last commit**: 2026-11-21
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 1,037 · **Forks**: 26 · **Open issues**: 144 · **Contributors**: 1
+- **Stars**: 1,039 · **Forks**: 26 · **Open issues**: 144 · **Contributors**: 1
 
 ## Totals (cumulative)
 
-- **Releases**: 11 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 141 · **Open issues**: 3 · **Commits**: 813
+- **Releases**: 11 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 142 · **Open issues**: 2 · **Commits**: 816
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 1 | 0 | 0 | 8 | 3 | 41 |
-| last60d | 2026-09-22 | 1 | 0 | 0 | 16 | 3 | 69 |
-| 90d | 2026-08-23 | 2 | 0 | 0 | 24 | 3 | 116 |
-| last180d | 2026-05-25 | 6 | 0 | 0 | 47 | 3 | 242 |
-| 360d | 2025-11-26 | 11 | 0 | 0 | 105 | 3 | 478 |
-| last720d | 2024-12-01 | 11 | 0 | 0 | 141 | 3 | 813 |
+| 30d | 2026-10-23 | 1 | 0 | 0 | 9 | 2 | 38 |
+| last60d | 2026-09-23 | 1 | 0 | 0 | 17 | 2 | 69 |
+| 90d | 2026-08-24 | 2 | 0 | 0 | 25 | 2 | 106 |
+| last180d | 2026-05-26 | 6 | 0 | 0 | 48 | 2 | 228 |
+| 360d | 2025-11-27 | 11 | 0 | 0 | 106 | 2 | 466 |
+| last720d | 2024-12-02 | 11 | 0 | 0 | 142 | 2 | 816 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for endcord lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:13:07Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T07:05:15Z._
