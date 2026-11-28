@@ -14,11 +14,11 @@ x install endcord
 
 ## Code insight
 
-Total: **46,498** lines of code across **74** files in the top 5 languages.
+Total: **46,562** lines of code across **74** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 40,928 | 1,677 | 4,823 | 61 |
+| Python | 40,992 | 1,677 | 4,826 | 61 |
 | Json | 3,946 | 0 | 0 | 1 |
 | Sh | 756 | 55 | 102 | 3 |
 | Cython | 518 | 128 | 128 | 5 |
@@ -33,27 +33,27 @@ Total: **46,498** lines of code across **74** files in the top 5 languages.
 ## Release
 
 - **Latest**: `1.6.0` (2026-11-12)
-- **Last commit**: 2026-11-26
+- **Last commit**: 2026-11-27
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 1,043 · **Forks**: 26 · **Open issues**: 146 · **Contributors**: 1
+- **Stars**: 1,046 · **Forks**: 25 · **Open issues**: 146 · **Contributors**: 1
 
 ## Totals (cumulative)
 
-- **Releases**: 11 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 143 · **Open issues**: 3 · **Commits**: 830
+- **Releases**: 11 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 143 · **Open issues**: 3 · **Commits**: 835
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 1 | 0 | 0 | 9 | 2 | 52 |
-| last60d | 2026-09-28 | 1 | 0 | 0 | 16 | 3 | 83 |
-| 90d | 2026-08-29 | 2 | 0 | 0 | 24 | 3 | 120 |
-| last180d | 2026-05-31 | 6 | 0 | 0 | 46 | 3 | 242 |
-| 360d | 2025-12-02 | 11 | 0 | 0 | 107 | 3 | 480 |
-| last720d | 2024-12-07 | 11 | 0 | 0 | 143 | 3 | 830 |
+| 30d | 2026-10-29 | 1 | 0 | 0 | 9 | 2 | 57 |
+| last60d | 2026-09-29 | 1 | 0 | 0 | 16 | 3 | 88 |
+| 90d | 2026-08-30 | 2 | 0 | 0 | 23 | 3 | 125 |
+| last180d | 2026-06-01 | 6 | 0 | 0 | 44 | 3 | 247 |
+| 360d | 2025-12-03 | 11 | 0 | 0 | 107 | 3 | 485 |
+| last720d | 2024-12-08 | 11 | 0 | 0 | 143 | 3 | 835 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for endcord lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T08:48:19Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:02:56Z._
