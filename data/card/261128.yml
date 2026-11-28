@@ -1,0 +1,153 @@
+about:
+  description: "The most feature rich Discord TUI client."
+  license: NOASSERTION
+  homepage: https://sparklost.github.io/endcord
+  head: 1909b98
+  archived: false
+  latestVersion: "1.6.0"
+  latestRelease: "1.6.0"
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T08:02:41Z
+timeline:
+  created: 2025-01-05
+  lastCommit: 2026-11-27
+  lastVersion: 2026-11-12
+  lastRelease: 2026-11-12
+  lastPrerelease: 
+popularity:
+  star: 1046
+  watcher: 7
+  fork: 25
+  release: 11
+  contributor: 1
+  pullRequest: 24
+  issue: 146
+language:
+  Python: 1968922
+  Shell: 31937
+  Cython: 23820
+  HTML: 4485
+totalBytes: 2029164
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 1
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 9
+    openIssue: 2
+    commit: 57
+  last60d:
+    since: 2026-09-29
+    release: 1
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 16
+    openIssue: 3
+    commit: 88
+  last90d:
+    since: 2026-08-30
+    release: 2
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 23
+    openIssue: 3
+    commit: 125
+  last180d:
+    since: 2026-06-01
+    release: 6
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 44
+    openIssue: 3
+    commit: 247
+  last360d:
+    since: 2025-12-03
+    release: 11
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 107
+    openIssue: 3
+    commit: 485
+  last720d:
+    since: 2024-12-08
+    release: 11
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 143
+    openIssue: 3
+    commit: 835
+total:
+  release: 11
+  mergedPR: 0
+  openPR: 0
+  closedIssue: 143
+  openIssue: 3
+  commit: 835
+---
+path: /home/runner/.x-repo/github.com/sparklost/endcord
+collectedAt: 2026-11-28T08:02:46Z
+loc:
+  Python:
+    code: 40992
+    comments: 1677
+    blanks: 4826
+    files: 61
+  Json:
+    code: 3946
+    comments: 0
+    blanks: 0
+    files: 1
+  Sh:
+    code: 756
+    comments: 55
+    blanks: 102
+    files: 3
+  Cython:
+    code: 518
+    comments: 128
+    blanks: 128
+    files: 5
+  Ini:
+    code: 184
+    comments: 0
+    blanks: 0
+    files: 4
+  Protobuf:
+    code: 59
+    comments: 32
+    blanks: 10
+    files: 2
+  Toml:
+    code: 49
+    comments: 0
+    blanks: 2
+    files: 1
+  Html:
+    code: 42
+    comments: 0
+    blanks: 8
+    files: 1
+  Svg:
+    code: 16
+    comments: 0
+    blanks: 0
+    files: 4
+  Markdown:
+    code: 0
+    comments: 1859
+    blanks: 183
+    files: 8
+  Text:
+    code: 0
+    comments: 26
+    blanks: 5
+    files: 1
+total:
+  code: 46588
+  comments: 3782
+  blanks: 5269
+  files: 91
+---
+
+---
